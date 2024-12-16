@@ -1,0 +1,15 @@
+{
+  "name": "playwrightdemoproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "description": "A Playwright demo project implementing Page Object Model",
+  "devDependencies": {
+    "@playwright/test": "^1.49.0",
+    "@types/node": "^22.9.0",
+    "playwright": "^1.49.0"
+  }
+}
